@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ce92df4a-cb76-4526-982a-3a0c930441fa"
+      }
+    },
+    "owner": "teberl"
   }
 }
